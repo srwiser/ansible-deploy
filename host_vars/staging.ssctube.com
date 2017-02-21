@@ -1,7 +1,7 @@
 ---
 db: ssctube
-db_user: wordpress
-db_user_password: admin123
-wp_admin: ssctube
-wp_admin_password: Pokhar!2
+db_user: dbusername
+db_user_password: dbpassword
+wp_admin: adminusername
+wp_admin_password: samplepassword
 wp_site_name: SSCTube
